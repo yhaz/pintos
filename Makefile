@@ -11,3 +11,6 @@ distclean:: clean
 
 check::
 	$(MAKE) -C tests $@
+
+sandbox:
+	bash sandbox.sh
