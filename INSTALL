@@ -1,0 +1,5 @@
+Compile bochs on Ubuntu
+=======================
+
+apt-get install xorg-dev
+apt-get install libncurses5-dev
